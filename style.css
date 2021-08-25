@@ -1,0 +1,15 @@
+body{
+    background-image: url('racing_background.gif');
+    background-position: center;
+    background-size: cover;
+}
+.text-danger{
+    color: red;
+}
+#canvas{
+    border: 5px, rgb(0, 0, 0), ridge;
+    background-color: white;
+}
+h1{
+    color: white;
+}
